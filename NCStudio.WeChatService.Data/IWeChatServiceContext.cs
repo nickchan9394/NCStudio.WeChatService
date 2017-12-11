@@ -11,5 +11,6 @@ namespace NCStudio.WeChatService.Data
     public interface IWeChatServiceContext:INCDbContext,IUnitOfWork
     {
         DbSet<UserAccessToken> UserAccessTokens { get; set; }
+        DbSet<AppAccessToken> AppAccessTokens { get; set; }
     }
 }

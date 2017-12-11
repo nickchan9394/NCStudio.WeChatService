@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace UnitTest.WeChatService.Core
+namespace UnitTest.WeChatService.App
 {
     public class GetUserAccessTokenCommandHandler_UnitTest
     {

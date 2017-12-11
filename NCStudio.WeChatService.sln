@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NCStudio.WeChatService.Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCStudio.WeChatService.App", "NCStudio.WeChatService.App\NCStudio.WeChatService.App.csproj", "{6F51C3F7-CD8D-4FD9-BED7-79B5A35E298D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest.WeChatService.App", "UnitTest.WeChatService.App\UnitTest.WeChatService.App.csproj", "{62D466CB-29D4-4832-AFCB-46FD754B916D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{6F51C3F7-CD8D-4FD9-BED7-79B5A35E298D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F51C3F7-CD8D-4FD9-BED7-79B5A35E298D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F51C3F7-CD8D-4FD9-BED7-79B5A35E298D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D466CB-29D4-4832-AFCB-46FD754B916D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D466CB-29D4-4832-AFCB-46FD754B916D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D466CB-29D4-4832-AFCB-46FD754B916D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D466CB-29D4-4832-AFCB-46FD754B916D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{9ECCE772-BF7D-44F5-A579-CCBC695269DE} = {D174AB57-C740-4218-82F2-1F3F8E8740D4}
 		{B28D877D-6F4B-4C2D-954C-6DD494DB74D7} = {166AD6D2-7CAB-4F7B-8C8D-8F7147826BC4}
 		{6F51C3F7-CD8D-4FD9-BED7-79B5A35E298D} = {166AD6D2-7CAB-4F7B-8C8D-8F7147826BC4}
+		{62D466CB-29D4-4832-AFCB-46FD754B916D} = {D174AB57-C740-4218-82F2-1F3F8E8740D4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F058E580-7985-46B5-A36C-4C30CE1A6A23}
