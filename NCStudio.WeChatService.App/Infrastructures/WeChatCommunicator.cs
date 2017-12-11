@@ -1,9 +1,10 @@
 ﻿using Microsoft.Extensions.Configuration;
+using NCStudio.WeChatService.Core;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Threading.Tasks;
 
-namespace NCStudio.WeChatService.Core
+namespace NCStudio.WeChatService.App
 {
     public class WeChatCommunicator : IWeChatCommunicator
     {

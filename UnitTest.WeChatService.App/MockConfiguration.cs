@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace UnitTest.WeChatService.Core
+namespace UnitTest.WeChatService.App
 {
     public class MockConfigruation : IConfiguration
     {

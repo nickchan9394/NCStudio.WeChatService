@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Moq;
 using NCStudio.Utility.Testing;
+using NCStudio.WeChatService.App;
 using NCStudio.WeChatService.Core;
 using Newtonsoft.Json;
 using System;
@@ -8,7 +9,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace UnitTest.WeChatService.Core
+namespace UnitTest.WeChatService.App
 {
     public class WeChatCommunicator_UnitTest
     {
